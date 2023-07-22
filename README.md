@@ -4,8 +4,7 @@
 
 Nine men's morris Sprint 4
 
-To execute the application,
-run NMM_Sprint4.exe in Sprint4 folder
+
 
 The project is compiled by jdk17, and javafx-sdk-20 library.
 The min JRE version acceptable is 1.4.0.
